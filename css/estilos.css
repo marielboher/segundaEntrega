@@ -7,7 +7,7 @@
 body{
     width: 100%;
     font-family: 'League Spartan', sans-serif;
-    background-image: url("/multimedia/fondo.svg");
+    background-image: url("./multimedia/fondo.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
